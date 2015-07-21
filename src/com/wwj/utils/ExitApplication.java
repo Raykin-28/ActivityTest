@@ -6,6 +6,10 @@ import java.util.List;
 import android.app.Activity;
 import android.app.Application;
 
+/*
+ *退出程序工具类 
+ * */
+
 public class ExitApplication extends Application {
 	private static ExitApplication instance;
 	private List<Activity> activityList = new LinkedList<Activity>();
