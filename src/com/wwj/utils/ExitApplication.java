@@ -7,7 +7,7 @@ import android.app.Activity;
 import android.app.Application;
 
 /*
- *退出程序工具类 
+ *閫�鍑虹▼搴忓伐鍏风被
  * */
 
 public class ExitApplication extends Application {
